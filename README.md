@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GustavoArakaki
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Ruby
+- 🌱 I’m currently learning Ruby
 
 
 <!---
